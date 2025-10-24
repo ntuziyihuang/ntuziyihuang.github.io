@@ -1,0 +1,78 @@
+# ---------- basics ----------
+
+baseURL = "https://ntuziyihuang.github.io/note.github.io/"   # ← set this; keep the trailing slash
+languageCode = "en-us"
+title = "My Study Notes"                            # ← set your site title
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+enableEmoji = true
+
+# ---------- PaperMod params ----------
+[params]
+  env = "production"
+  description = "Comprehensive study notes, tutorials, and projects."  # ← edit
+  author = "Terence Huang"                                                 # ← edit
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowPageNums = true
+  ShowAllPagesInArchive = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+
+  [params.homeInfoParams]
+    Title = "My Study Notes"
+    Content = "Explore concise notes, tutorials, and projects. Use the menu or search."
+
+  # Social icons in the header
+  [[params.socialIcons]]
+    name = "github"
+    title = "Source on GitHub"
+    url = "https://ntuziyihuang.github.io/note.github.io/"     # ← edit or add more icons
+
+  # Optional: “Edit this page” link
+  [params.editPost]
+    URL = "https://ntuziyihuang.github.io/note.github.io/edit/main/content"
+    Text = "Suggest Changes"
+    appendFilePath = true
+
+# ---------- menus ----------
+[menu]
+  [[menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/notes/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+# ---------- taxonomies ----------
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# ---------- outputs (enable JSON for local search) ----------
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ---------- assets (favicons, optional) ----------
+[assets]
+  favicon = "/images/favicon.png"
+  favicon16x16 = "/images/favicon-16x16.png"
+  favicon32x32 = "/images/favicon-32x32.png"
