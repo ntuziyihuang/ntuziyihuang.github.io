@@ -1,0 +1,11 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+
+baseURL = "https://yourname.github.io/"
+languageCode = "en-us"
+title = "子譯的學習筆記"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "歡迎來到我的學習筆記", Content = "這裡記錄我在統計、機器學習、資料分析上的探索。" }
