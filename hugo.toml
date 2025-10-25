@@ -35,7 +35,7 @@ enableEmoji = true
 
   # Optional: “Edit this page” link
   [params.editPost]
-    URL = "https://github.com/ntuziyihuang/note.github.io/edit/main/content"
+    URL = "https://github.com/ntuziyihuang/ntuziyihuang.github.io/edit/main/content"
     Text = "Suggest Changes"
     appendFilePath = true
 
