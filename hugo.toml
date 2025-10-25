@@ -31,11 +31,11 @@ enableEmoji = true
   [[params.socialIcons]]
     name = "github"
     title = "Source on GitHub"
-    url = "https://ntuziyihuang.github.io/note.github.io/"     # ← edit or add more icons
+    url = "https://ntuziyihuang.github.io/"     # ← edit or add more icons
 
   # Optional: “Edit this page” link
   [params.editPost]
-    URL = "https://ntuziyihuang.github.io/note.github.io/edit/main/content"
+    URL = "https://github.com/ntuziyihuang/note.github.io/edit/main/content"
     Text = "Suggest Changes"
     appendFilePath = true
 
