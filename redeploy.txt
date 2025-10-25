@@ -1,1 +1,1 @@
-"trigger redeploy" 
+"redeploy after repo rename" 
