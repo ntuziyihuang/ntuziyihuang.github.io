@@ -1,1 +1,7 @@
-'+++\ntitle = "Welcome"\n+++\n\n# ?? Welcome to My Study Notes\n\nThis site is where I collect tutorials, notes, and projects.' 
++++
+title = "Welcome"
++++
+
+# Welcome to My Study Notes
+
+Explore concise notes, tutorials, and projects. Use the menu above to navigate.
