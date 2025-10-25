@@ -1,6 +1,6 @@
 # ---------- basics ----------
 
-baseURL = "https://ntuziyihuang.github.io/note.github.io/"   # ← set this; keep the trailing slash
+baseURL = "https://ntuziyihuang.github.io/"  # ← set this; keep the trailing slash
 languageCode = "en-us"
 title = "My Study Notes"                            # ← set your site title
 theme = "PaperMod"
