@@ -21,6 +21,9 @@ jobs:
 
       - name: Build site
         run: hugo --minify --cleanDestinationDir
+      
+      - name: Debug public folder
+        run: ls -R ./public
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
