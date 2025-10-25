@@ -1,1 +1,1 @@
-"redeploy after repo rename" 
+"redeploy after rename" 
