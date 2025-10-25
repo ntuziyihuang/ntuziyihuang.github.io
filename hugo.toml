@@ -31,7 +31,7 @@ enableEmoji = true
   [[params.socialIcons]]
     name = "github"
     title = "Source on GitHub"
-    url = "https://ntuziyihuang.github.io/"     # ← edit or add more icons
+    url = "https://github.com/ntuziyihuang/ntuziyihuang.github.io"   # ← edit or add more icons
 
   # Optional: “Edit this page” link
   [params.editPost]
