@@ -1,7 +1,7 @@
 +++
 title = "The difference between Strategic Planning and Strategic thinking."
 date = 2025-11-06
-tags = []
+tags = ["business", "strategic thinking", "strategic planning", "Industrial Engineering"]
 draft = false
 +++
 
