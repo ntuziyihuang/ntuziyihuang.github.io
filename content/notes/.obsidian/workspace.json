@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "The difference between Strategic Planning and Strategic thinking/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "index"
             }
           }
         ],
@@ -186,11 +186,17 @@
   },
   "active": "933b522a0783ca15",
   "lastOpenFiles": [
-    "Templates/hugo-article-template.md",
+    "The difference between Strategic Planning and Strategic thinking/5-techniques-to-improve-strategic-thinking.jpg",
+    "The difference between Strategic Planning and Strategic thinking/index.md",
     "Testing.md",
+    "The difference between Strategic Planning and Strategic thinking/5-techniques-to-improve-strategic-thinking.jpg.crdownload",
+    "The difference between Strategic Planning and Strategic thinking..md",
+    "index.md",
+    "The difference between Strategic Planning and Strategic thinking",
+    "New folder",
+    "Templates/hugo-article-template.md",
     "introduction-to-python.md",
     "data-structures.md",
-    "Untitled.md",
     "Untitled",
     "Untitled 1.md",
     "Hugo template.md",
